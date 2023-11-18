@@ -3,3 +3,9 @@ def add():
 
 def sub():
     return 5-6
+
+def mul():
+    return 5*6
+
+def div():
+    return 5/6
